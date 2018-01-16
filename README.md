@@ -1,4 +1,4 @@
-#Reglas Conca
+# Reglas Conca
 
 ## 1. Estructura de la Liga
 1. Formato de liga con partido ida y vuelta.
